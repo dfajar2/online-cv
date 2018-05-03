@@ -1,5 +1,4 @@
-intro: "You can list your publications in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+intro:
 publications:
   - paper:
     title: "Evaluation of Whole Genome Sequencing and an Insertion Site Characterization Method for Molecular Characterization of GM Maize. 
