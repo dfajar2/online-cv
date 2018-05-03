@@ -2,102 +2,102 @@ intro: "You can list your publications in this section. Lorem ipsum dolor
   sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
 publications:
   - paper:
-    title: Evaluation of Whole Genome Sequencing and an Insertion Site Characterization Method for Molecular Characterization of GM Maize. 
-    authors: Cade R., Burgin K., Schilling K., Lee T. J., Ngam P., Devitt N., & Fajardo D. 
-    conference:  Journal of Regulatory Science, 6(1), 1-14. 2018.
+    title: "Evaluation of Whole Genome Sequencing and an Insertion Site Characterization Method for Molecular Characterization of GM Maize. "
+    authors: "Cade R., Burgin K., Schilling K., Lee T. J., Ngam P., Devitt N., & Fajardo D. "
+    conference: " Journal of Regulatory Science, 6(1), 1-14. 2018."
   - paper:
-    title: Topological Data Analysis as a Morphometric Method: Using Persistent Homology to Demarcate a Leaf Morphospace. 
-    authors: Li M., An H., Angelovici R., Bagaza C., Batushansky A., Clark L., Coneva V., Donoghue M.J., Edwards E., Fajardo D., Fang H., Frank M.H., Gallaher T., Gebken S., Hill T., Jansky S., Kaur B., Klahs P.C., Klein L.L., Kuraparthy V., Londo J., Migicovsky Z., Miller A., Mohn R., Myles S., Otoni W.C., Pires J.C., Rieffer E., Schmerler S., Spriggs E., Topp C.N., Van Deynze A., Zhang K., Zhu L., Zink B.M. & Chitwood D.H.
-    conference: Frontiers in Plant Science 9:553 doi:10.3389/fpls.2018.00553 . 2018. 
+    title: "Topological Data Analysis as a Morphometric Method: Using Persistent Homology to Demarcate a Leaf Morphospace. "
+    authors: "Li M., An H., Angelovici R., Bagaza C., Batushansky A., Clark L., Coneva V., Donoghue M.J., Edwards E., Fajardo D., Fang H., Frank M.H., Gallaher T., Gebken S., Hill T.,"sky S., Kaur B., Klahs P.C., Klein L.L., Kuraparthy V., Londo J., Migicovsky Z., Miller A., Mohn R., Myles S., Otoni W.C., Pires J.C., Rieffer E., Schmerler S., Spriggs E., Topp C.N., Van Deynze A., Zhang K., Zhu L., Zink B.M. & Chitwood D.H.
+    conference: "Frontiers in Plant Science 9:553 doi:10.3389/fpls.2018.00553 . 2018. "
   - paper:
-    title: Taxonomy of Wild Potatoes in Northern South America (Solanum section Petota). 
-    authors: Spooner D., Jansky S., Rodriguez F., Simon R., Ames M., Fajardo D. & Castillo, R. 
-    conference: Accepted for publication. 
+    title: "Taxonomy of Wild Potatoes in Northern South America (Solanum section Petota). "
+    authors: "Spooner D., Jansky S., Rodriguez F., Simon R., Ames M., Fajardo D. & Castillo, R. "
+    conference: "Accepted for publication. "
   - paper:
-    title: Strategies for optimizing BioNano and Dovetail explored through a second reference quality assembly for the legume model, Medicago truncatula. 
-    authors: Moll K., Zhou P., Ramaraj T., Fajardo D., Devitt N.P., Sadowsky M.J., Stupar R.M., Tiffin P., Miller J.R., Young N.D., Silverstein K.A.T. & Mudge J.
-    conference: BMC Genomics 18(1):578. 2017. 
+    title: "Strategies for optimizing BioNano and Dovetail explored through a second reference quality assembly for the legume model, Medicago truncatula. "
+    authors: "Moll K., Zhou P., Ramaraj T., Fajardo D., Devitt N.P., Sadowsky M.J., Stupar R.M., Tiffin P., Miller J.R., Young N.D., Silverstein K.A.T. & Mudge J."
+    conference: "BMC Genomics 18(1):578. 2017. "
   - paper:
-    title: Amylose content decreases during tuber development in potato. 
-    authors: Jansky S. & Fajardo D.
-    conference: Journal of the Science of Food and Agriculture 96(13):4560-4564. 2016. 
+    title: "Amylose content decreases during tuber development in potato. "
+    authors: "Jansky S. & Fajardo D."
+    conference: "Journal of the Science of Food and Agriculture 96(13):4560-4564. 2016. "
   - paper:
-    title: Discriminating power of microsatellites in cranberry organelles for taxonomic studies in Vaccinium and Ericaceae. 
-    authors: Schlautman B., Covarrubias-Pazara G., Fajardo D., Steffan, S & Zalapa, J. 
-    conference: Genetic Resources and Crop Evolution. doi:10.1007/s10722-016-0371-6. 2016.
+    title: "Discriminating power of microsatellites in cranberry organelles for taxonomic studies in Vaccinium and Ericaceae. "
+    authors: "Schlautman B., Covarrubias-Pazara G., Fajardo D., Steffan, S & Zalapa, J. "
+    conference: "Genetic Resources and Crop Evolution. doi:10.1007/s10722-016-0371-6. 2016."
   - paper:
-    title: Development and validation of 697 novel polymorphic genomic and EST-SSR markers in the american cranberry (Vaccinium macrocarpon Ait.). 
-    authors: Schlautman B., Fajardo D., Bougie T., Wiesman E., Polashock J., Vorsa N., Steffan S. & Zalapa J. 
-    conference: Molecules 20(2), 2001-2013; doi:10.3390/molecules20022001 . 2015.
+    title: "Development and validation of 697 novel polymorphic genomic and EST-SSR markers in the american cranberry (Vaccinium macrocarpon Ait.). "
+    authors: "Schlautman B., Fajardo D., Bougie T., Wiesman E., Polashock J., Vorsa N., Steffan S. & Zalapa J. "
+    conference: "Molecules 20(2), 2001-2013; doi:10.3390/molecules20022001 . 2015."
   - paper:
-    title: Clonal diversity and genetic differentiation revealed by SSR markers in wild Vaccinium macrocarpon and Vaccinium oxycoccos. 
-    authors: Zalapa J., Bougie T.C., Bougie T.A., Guzman A., Wiesman E., Fajardo D., Schlautman B.J., Steffan S. & Smith T. 
-    conference: Annals of Applied Biology 166:196-207. 2015.
+    title: "Clonal diversity and genetic differentiation revealed by SSR markers in wild Vaccinium macrocarpon and Vaccinium oxycoccos. "
+    authors: "Zalapa J., Bougie T.C., Bougie T.A., Guzman A., Wiesman E., Fajardo D., Schlautman B.J., Steffan S. & Smith T. "
+    conference: "Annals of Applied Biology 166:196-207. 2015."
   - paper:
-    title: Tuber Starch Amylose Content is Associated with Cold-induced Sweetening in Potato. 
-    authors: Jansky S. & Fajardo D. 
-    conference: Food Science and Nutrition. 2:628-633. 2014.
+    title: "Tuber Starch Amylose Content is Associated with Cold-induced Sweetening in Potato. "
+    authors: "Jansky S. & Fajardo D. "
+    conference: "Food Science and Nutrition. 2:628-633. 2014."
   - paper:
-    title: The American cranberry: first insights into the whole genome of a species adapted to bog habitat. 
-    authors: Polashock J., Zelzion E., Fajardo D., Zalapa J., Georgi L., Bhattacharya D. & Vorsa N. 
-    conference: BMC Plant Biology 2014, 14:165 doi:10.1186/1471-2229-14-165. 2014. 
+    title: "The American cranberry: first insights into the whole genome of a species adapted to bog habitat. "
+    authors: "Polashock J., Zelzion E., Fajardo D., Zalapa J., Georgi L., Bhattacharya D. & Vorsa N. "
+    conference: "BMC Plant Biology 2014, 14:165 doi:10.1186/1471-2229-14-165. 2014. "
   - paper:
-    title: Generation and characterization of a sugarbeet (Beta vulgaris L.) transcriptome and transcript-based SSR markers. 
-    authors: Fugate K.K., Fajardo D., Schlautman B., Ferrareze J.P., Bolton M.D., Campbell L.G., Wiesman E. & Zalapa J. 
-    conference: The Plant Genome. doi:10.3835/plantgenome2013.11.0038. 2014. 
+    title: "Generation and characterization of a sugarbeet (Beta vulgaris L.) transcriptome and transcript-based SSR markers. "
+    authors: "Fugate K.K., Fajardo D., Schlautman B., Ferrareze J.P., Bolton M.D., Campbell L.G., Wiesman E. & Zalapa J. "
+    conference: "The Plant Genome. doi:10.3835/plantgenome2013.11.0038. 2014. "
   - paper:
-    title: The American cranberry mitochondrial genome reveals the presence of rare selenocysteine (tRNA-Sec and SECIS) insertion machinery in land plants. 
-    authors: Fajardo D., Schlautman B., Steffan S., Polashock J., Vorsa N. & Zalapa J.  
-    conference: Gene. 536:336-343. 2014.
+    title: "The American cranberry mitochondrial genome reveals the presence of rare selenocysteine (tRNA-Sec and SECIS) insertion machinery in land plants. "
+    authors: "Fajardo D., Schlautman B., Steffan S., Polashock J., Vorsa N. & Zalapa J.  "
+    conference: "Gene. 536:336-343. 2014."
   - paper:
-    title: Rapid high throughput amylose determination in freeze dried potato tuber samples. 
-    authors: Fajardo D., Jayanty S. S. & Jansky S. H. 
-    conference: J. Vis. Exp. (80), e50407, doi:10.3791/50407. 2013. 
+    title: "Rapid high throughput amylose determination in freeze dried potato tuber samples. "
+    authors: "Fajardo D., Jayanty S. S. & Jansky S. H. "
+    conference: "J. Vis. Exp. (80), e50407, doi:10.3791/50407. 2013. "
   - paper:
-    title: Starch characteristics of modern and heirloom potato cultivars. 
-    authors: Fajardo D., Haynes K. & Jansky S.  
-    conference: American Journal of Potato Research. 90:460-469. 2013.
+    title: "Starch characteristics of modern and heirloom potato cultivars. "
+    authors: "Fajardo D., Haynes K. & Jansky S.  "
+    conference: "American Journal of Potato Research. 90:460-469. 2013."
   - paper:
-    title: Complete plastid genome sequence of Vaccinium macrocarpon: structure, gene content and rearrangements revealed by next generation sequencing. 
-    authors: Fajardo D., Senalik D., Ames M., Zhu H., Steffan S., Harbut R., Polashock J., Vorsa N., Gillespie E., Kron K. & Zalapa J. 2013. 
-    conference: Trees Genetics & Genomes. 9:489-498. 2013.
+    title: "Complete plastid genome sequence of Vaccinium macrocarpon: structure, gene content and rearrangements revealed by next generation sequencing. "
+    authors: "Fajardo D., Senalik D., Ames M., Zhu H., Steffan S., Harbut R., Polashock J., Vorsa N., Gillespie E., Kron K. & Zalapa J. 2013. "
+    conference: "Trees Genetics & Genomes. 9:489-498. 2013."
   - paper:
-    title: Breeding for improved potato nutrition: High amylose starch potatoes show promise as fiber source. 
-    authors: Jansky S.H. & Fajardo D.  
-    conference: Common Tater. 11:24-25. 2012.
+    title: "Breeding for improved potato nutrition: High amylose starch potatoes show promise as fiber source. "
+    authors: "Jansky S.H. & Fajardo D.  "
+    conference: "Common Tater. 11:24-25. 2012."
   - paper:
-    title: Discrimination of American cranberry cultivars and assessment of clonal heterogeneity using microsatellite markers. 
-    authors: Fajardo D., Morales J., Zhu H., Steffan S., Harbut R., Bassil N., Hummer K., Polashock J., Vorsa N. & Zalapa J. 
-    conference: Plant Molecular Biology Reporter. 31:264-271. 2013. 
+    title: "Discrimination of American cranberry cultivars and assessment of clonal heterogeneity using microsatellite markers. "
+    authors: "Fajardo D., Morales J., Zhu H., Steffan S., Harbut R., Bassil N., Hummer K., Polashock J., Vorsa N. & Zalapa J. "
+    conference: "Plant Molecular Biology Reporter. 31:264-271. 2013. "
   - paper:
-    title: Phylogenetic relationships of Solanum series Conicibaccata and related species in Solanum section Petota inferred from five conserved ortholog sequences. 
-    authors: Fajardo D. & Spooner D.M. 
-    conference: Syst. Bot. 36:163-170. 2011. 
+    title: "Phylogenetic relationships of Solanum series Conicibaccata and related species in Solanum section Petota inferred from five conserved ortholog sequences. "
+    authors: "Fajardo D. & Spooner D.M. "
+    conference: "Syst. Bot. 36:163-170. 2011. "
   - paper:
-    title: Revision of the Solanum medians complex (Solanum sect. Petota). 
-    authors: Spooner D.M., Fajardo D. & Salas A. 
-    conference: Syst. Bot. 33:579-588. 2008. 
+    title: "Revision of the Solanum medians complex (Solanum sect. Petota). "
+    authors: "Spooner D.M., Fajardo D. & Salas A. "
+    conference: "Syst. Bot. 33:579-588. 2008. "
   - paper:
-    title: The use and limits of AFLP data in the taxonomy of polyploid wild potato species in Solanum series Conicibaccata. 
-    authors: Jiménez J.P., Brenes A., Salas A., Fajardo D. & Spooner D.M. 
-    conference: Conserv. Genet. 9: pp. 381-387. 2008. 
+    title: "The use and limits of AFLP data in the taxonomy of polyploid wild potato species in Solanum series Conicibaccata. "
+    authors: "Jiménez J.P., Brenes A., Salas A., Fajardo D. & Spooner D.M. "
+    conference: "Conserv. Genet. 9: pp. 381-387. 2008. "
   - paper:
-    title: A morphometric study of species boundaries of the wild potato Solanum series Conicibaccata: a replicated field trial in Andean Peru. 
-    authors: Fajardo D., Castillo R., Salas A. & Spooner D.M. 
-    conference: Syst. Bot. 33(1): pp. 183-192. 2008. 
+    title: "A morphometric study of species boundaries of the wild potato Solanum series Conicibaccata: a replicated field trial in Andean Peru. "
+    authors: "Fajardo D., Castillo R., Salas A. & Spooner D.M. "
+    conference: "Syst. Bot. 33(1): pp. 183-192. 2008. "
   - paper:
-    title: Species limits of Solanum berthaultii Hawkes and S. tarijense Hawkes and the implications for species boundaries in Solanum sect. Petota. 
-    authors: Spooner D.M., Fajardo D. & Bryan G.J. 
-    conference: Taxon. 56(4): 987-999. 2007. 
+    title: "Species limits of Solanum berthaultii Hawkes and S. tarijense Hawkes and the implications for species boundaries in Solanum sect. Petota. "
+    authors: "Spooner D.M., Fajardo D. & Bryan G.J. "
+    conference: "Taxon. 56(4): 987-999. 2007. "
   - paper:
-    title: Photographic documentation of wild potatoes (Solanum sect. Petota). 
-    authors: Salas-Lopez A., Alvarez N.M., Ames M., Blancas M., Fajardo D., Juarez H., Peralta I.E., Roca W., Rojas E. & Simon R. 
-    conference: American journal of potato research. Jan-Feb, v. 84, no. 1, p. 115. 2007. 
+    title: "Photographic documentation of wild potatoes (Solanum sect. Petota). "
+    authors: "Salas-Lopez A., Alvarez N.M., Ames M., Blancas M., Fajardo D., Juarez H., Peralta I.E., Roca W., Rojas E. & Simon R. "
+    conference: "American journal of potato research. Jan-Feb, v. 84, no. 1, p. 115. 2007. "
   - paper:
-    title: Identification of R1 and R2 Genes conferring resistance to Phytophthora infestans in Colombian potato genotypes. 
-    authors: Díaz M., Fajardo D., Moreno J.D., García C. & Núñez V.M. 
-    conference: Revista Colombiana de Biotecnología. v. 5, n. 2. p 40-50. 2003. 
+    title: "Identification of R1 and R2 Genes conferring resistance to Phytophthora infestans in Colombian potato genotypes. "
+    authors: "Díaz M., Fajardo D., Moreno J.D., García C. & Núñez V.M. "
+    conference: "Revista Colombiana de Biotecnología. v. 5, n. 2. p 40-50. 2003. "
   - paper:
-    title: Genetic variation analysis of the genus Passiflora L. using RAPD markers. 
-    authors: Fajardo D., Angel F., Grum M., Tohme J., Lobo M., Roca W. & Sánchez I. 
-    conference: Euphytica, v. 101, n. 3, p. 341-347. 1998. 
+    title: "Genetic variation analysis of the genus Passiflora L. using RAPD markers. "
+    authors: "Fajardo D., Angel F., Grum M., Tohme J., Lobo M., Roca W. & Sánchez I. "
+    conference: "Euphytica, v. 101, n. 3, p. 341-347. 1998. "
