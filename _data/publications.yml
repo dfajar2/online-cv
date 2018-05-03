@@ -1,6 +1,10 @@
 intro:
 publications:
   - paper:
+    title: "A syntax directed compiler for Algol 60
+    authors: "Edgar T. Irons
+    conference: ""Comm. ACM 4 (1961), 51–55
+  - paper:
     title: "Evaluation of Whole Genome Sequencing and an Insertion Site Characterization Method for Molecular Characterization of GM Maize. 
     authors: "Cade R., Burgin K., Schilling K., Lee T. J., Ngam P., Devitt N., & Fajardo D. 
     conference: " Journal of Regulatory Science, 6(1), 1-14. 2018.
