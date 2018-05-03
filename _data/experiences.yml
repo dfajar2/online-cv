@@ -1,28 +1,41 @@
 - experience:
-  role: Lead Developer
-  time: 2015 - Present
-  company: Startup Hubs, San Francisco
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
+  role: Bioinformatics Analyst
+  time: 2014 - Present
+  company: NCGR - National Center for Genome Resources, Santa Fe, NM, USA
+  details: "Data analysis of genomic sequences included plant, animals and microorganisms.
   <br> <br>
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-  architecto beatae vitae dicta sunt explicabo."
+  Whole genome and transcriptome assembly, variant analysis, RNASeq, differential expression and alternative splicing, annotation and validation among others. Library prep and RNA/DNA sequencing using Illumina HiSeq2000 and PacBio RSII SMRT sequencing. Use GUI and CLI software to manipulate and analyze sequence data and assembly, mapping, annotation and analysis of Next Generation Sequencing data (long and short DNA length sequence). For transcriptome assembly I have used a combination of Abyss, CAP3, CD-HIT, BWA, STAR and Trinity. While for the annotation of assembled transcripts I use ESTScan, HMMER, Trinotate (including Transdecoder and NCBI+ blast) for homology search. RNASeq analyses included the use of the Tuxedo suite, DESeq2 and Cytoscape for GO term enrichment analysis, among others. Whole genome variant analyses included the use of aligners such as BWA, GMAP/GSNAP to map reads against reference genomes as well as the use of variant like GATK, Freebayes and Alpheus pipeline. Genome assembly validation and countinuity is peformed by using BUSCO, CEGMA and GAEMR. VEP and SnpEff are used for variant effect prediction. For the manipulation, parsing of genomic data and analysis of different type of NGS data, I use bedtools, vcftools/bcftools, vcflib, samtools, fastx toolkit, SnpSift and BASH/shell script programming with some Python and Perl, among others. Visualization of genomic data and results is performed in IGV (Integrative Genomics Viewer) and R."
 - experience:
-  role: Senior Software Engineer
-  time: 2014 - 2015
-  company: Google, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: Research Associate - Bioinformatics
+  time: 2011 - 2014
+  company: University of Wisconsin-Madison, USA
+  details: "Bioinformatics and plant genetics.
+  <br> <br>
+  Analysis of next generation sequencing data for the de novo assembly, mapping and annotation of American cranberry nuclear and organellar genomes using 454 and Illumina data. Post analyses included SNP, SSR discovery and organellar structural rearrangements used in population genetic studies. The organellar genome assembly and annotation included the use of Newbler, Mitofy and DOGMA. Structural rearrangements were detected and visualized using Mummer, Geneious and Circos, respectively. Population genetic analyses were performed using GenAlEx and STRUCTURE."
 - experience:
-  role: UI Developer
-  time: 2012 - 2014
-  company: Amazon, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: Research Associate – Genetics
+  time: 2009 - 2011
+  company: USDA-Agricultural Research Service, Madison, WI
+  details: "Plant breeding and genetics. 
+  <br> <br>
+  Evaluation and selection potato cultivars with high and low amylose content in the tuber. Testing of inter specific crosses for the genetic study of amylose content in the tuber. Establishment of progeny population in the greenhouse for amylose determination analysis."
+- experience:
+  role: Ph.D. Research
+  time: 2004 - 2008
+  company: University of Wisconsin-Madison, USA
+  details: "Phylogenetic analysis of wild potato species. 
+  <br> <br>
+  Morphological evaluation and identification of different wild potato species in grown in greenhouses, and herbarium specimens. Identification and DNA Sanger sequencing of conserved ortholog genes for phylogenetic analyses including Maximum Likelihood and Bayesian approaches. Also use of Geographic Information Systems software DivaGIS to map and correlate phenotypical traits with geographical locations. "
+
+- experience:
+  role: Research Assistant
+  time: 1996 - 2003
+  company: Colombian Corporation of Agricultural Research - Corpoica, Tibaitatá, Colombia.
+  details: "Evaluate with morphological descriptors and molecular markers various plant species, including bananas and plantains, potato, cotton, bean, and other Andean plant species. 
+  <br> <br>
+  Management in the documentation and database systematization of crop species of the National Germplasm and Seed Bank inventory in Colombia stored in our research station. Establish the molecular characterization lab for evaluation, analysis and documentation of plant genetic resources. Promote the importance and utilization of plant genetic resources. Conduct student training and support. Evaluation and organization of tissue culture accessions from banana and plantains. Identification of parental materials of potato involved in marker assisted selection for late blight resistance (Phytophthora infestans) and some industrial quality parameters."
+- experience:
+  role: Internship
+  time: 1995 - 1996
+  company: International Center for Tropical Agriculture - CIAT, Cali, Colombia. 
+  details: "Inter specific relationship and phylogenetic analysis of Andean fruit from the passiflora species by the evaluation of molecular markers."
