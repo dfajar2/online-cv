@@ -1,4 +1,4 @@
-intro: "Most recent publications.
+intro: "Most recent publications."
 publications:
   - paper:
     title: "A syntax directed compiler for Algol 60
